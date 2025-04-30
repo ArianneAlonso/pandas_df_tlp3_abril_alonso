@@ -1,0 +1,16 @@
+# Archivos generados por pandas (exportados, etc.)
+*.csv
+*.sqlite
+
+# Archivos de entorno virtual
+venv/
+df/
+
+# Archivos de sistema
+.DS_Store
+*.log
+
+# Archivos de configuración de editor
+.vscode/
+.idea/
+*.swp
