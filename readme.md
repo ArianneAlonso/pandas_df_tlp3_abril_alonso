@@ -2,7 +2,7 @@ Clonar el repositorio:
 
 https://github.com/ArianneAlonso/pandas_df_tlp3_abril_alonso.git
 
-Crear un entorno virtual llamado actividad (si aún no existe):
+Crear un entorno virtual llamado df (si aún no existe):
 
 python -m venv df
 
